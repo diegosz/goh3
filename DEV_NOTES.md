@@ -23,6 +23,8 @@ go get -u ./...
 go mod tidy
 ```
 
+- [Function name changes | H3](https://h3geo.org/docs/library/migration-3.x/functions/#general-function-names)
+
 ## FIXME
 
 Running test in the IDE are not working as expected. It works fine in debug mode, but fails to run in testing.
