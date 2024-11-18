@@ -5,6 +5,8 @@
 
 ## Update `ch3` Package
 
+Update the `ch3` package with the latest changes from the [`h3`](https://github.com/diegosz/h3) package.
+
 ```shell
 rm .drone.yml
 rm ch3/a_darwin_arm64.go
